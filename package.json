@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/HR0N/telegram-bot#readme",
   "dependencies": {
+    "axios": "^0.27.2",
+    "mysql2": "^2.3.3",
     "node-telegram-bot-api": "^0.57.0",
     "nodemon": "^2.0.16"
   }
